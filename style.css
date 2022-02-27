@@ -17,6 +17,9 @@
 .bg-half-indigo{
     background-color: #DEDBF8 !important;
 }
+.footer-bg-color{
+    background-color: #292838;
+}
 
 
 /*  for shadow  */
@@ -30,8 +33,11 @@
 -webkit-box-shadow: 10px 10px 5px 0px rgba(208, 204, 238);
 -moz-box-shadow: 10px 10px 5px 0px rgba(208, 204, 238);
 }
-h1 , h2 , h3 , h5 , h4 , h6 ,  p {
+h1 , h2 , h3 , h5 , h4 , h6  {
     text-shadow: 4px 4px 5px rgb(208, 204, 238);
+}
+footer>h1 , h2 , h3 , h5 , h4 , h6 , p {
+    text-shadow: none;
 }
 
 .section2{
