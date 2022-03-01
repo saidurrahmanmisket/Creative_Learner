@@ -8,6 +8,9 @@
 .text-indigo{
     color: #603CD5 !important;
 }
+.text-my-color{
+    color: #ABA2BB;
+}
 .bg-indigo{
     background-color: #603CD5 !important;
 }
@@ -20,7 +23,6 @@
 .footer-bg-color{
     background-color: #292838;
 }
-
 
 /*  for shadow  */
 .my-all-box-shadow{
@@ -35,6 +37,10 @@
 }
 h1 , h2 , h3 , h5 , h4 , h6  {
     text-shadow: 4px 4px 5px rgb(208, 204, 238);
+    
+}
+p{
+    color: #ABA2BB;
 }
 footer>h1 , h2 , h3 , h5 , h4 , h6 , p {
     text-shadow: none;
